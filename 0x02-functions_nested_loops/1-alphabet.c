@@ -2,6 +2,8 @@
 
 /**
  * print_alphabt - prints alphabet
+ *
+ * Return: void
  */
 void print_alphabet(void)
 {
